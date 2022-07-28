@@ -21,6 +21,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 Videos:
 
 https://youtu.be/kYJYEwC26dE
+
 https://youtu.be/rVniinoCgG4
+
 https://youtu.be/P0TcMuYbaqA
+
 https://youtu.be/2cV1F5gzcoM
